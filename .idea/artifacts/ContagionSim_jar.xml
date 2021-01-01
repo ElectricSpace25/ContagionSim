@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ContagionSim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ContagionSim_jar</output-path>
+    <root id="archive" name="ContagionSim.jar">
+      <element id="module-output" name="ContagionSim" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/processing-3.5.4/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
